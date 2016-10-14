@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook-logo-button</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iPhone-5/5S/5C-Copy-2" sketch:type="MSArtboardGroup" transform="translate(-226.000000, -1621.000000)" fill-opacity="0.75" fill="#E7E7E7">
+            <g id="Contacts" sketch:type="MSLayerGroup" transform="translate(0.000000, 1439.000000)">
+                <g id="facebook-logo-button" transform="translate(226.000000, 182.000000)" sketch:type="MSShapeGroup">
+                    <g id="Group">
+                        <path d="M23.970037,0 C10.7325832,0 0,10.7325832 0,23.970037 C0,37.2074908 10.7325832,47.9400739 23.970037,47.9400739 C37.2074908,47.9400739 47.9400739,37.2074908 47.9400739,23.970037 C47.9400739,10.7296263 37.2074908,0 23.970037,0 L23.970037,0 Z M30.1662752,23.9669815 L26.2381602,23.9699384 L26.2352033,38.3519014 L20.8449117,38.3519014 L20.8449117,23.970037 L17.2494456,23.970037 L17.2494456,19.0142094 L20.8449117,19.0112526 L20.8388994,16.0929117 C20.8388994,12.048 21.9355072,9.58807392 26.6965749,9.58807392 L30.6636222,9.58807392 L30.6636222,14.5468583 L28.1827023,14.5468583 C26.3280493,14.5468583 26.2381602,15.2389651 26.2381602,16.5303326 L26.2321478,19.0112526 L30.6905298,19.0112526 L30.1662752,23.9669815 L30.1662752,23.9669815 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
